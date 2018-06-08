@@ -1,5 +1,7 @@
 # AJACS47　バイオインフォマティクス人材育成カリキュラム（次世代シークエンサ）速習コース
 
+https://events.biosciencedbc.jp/training/ajacs47
+
 <p>ライフサイエンス分野の研究現場においては、莫大・多様な研究データが産出され、取り扱うデータ量が飛躍的に増えています。一方で、それらのデータを整備・活用するための人材は不足している状況です。 このような研究現場の状況を踏まえ、<a href="http://biosciencedbc.jp/about-us/organization/committees/hrd" target="_blank">NBDC運営委員会人材育成分科会</a>において、研究データを整備・活用する<a href="http://biosciencedbc.jp/about-us/nbdc-chousa" target="_blank">バイオインフォマティクス人材を育成するためのカリキュラム</a>が策定されました。 今回のカリキュラムは対応が急務であると思われる次世代シークエンサ（NGS）データに焦点を当てた内容となっており、最低限必要とされる知識・技術を2週間程度で身につけることを想定した「速習」と、時間をかけて習得することを想定した「速習以外」に分かれています。 このカリキュラムに基づき、下記日程で2週間にわたる<strong>「速習」コース</strong>を試行的に開催し、受講者とオブザーバー（TA）を募集します。</p>
 <p><span style="color: #ff0000;">講義資料・動画などは</span><a href="http://biosciencedbc.jp/human/human-resources/workshop#NGS_sokusyu_2014">こちら</a><span style="color: #ff0000;">のサイトをご覧ください。</span></p>
 <ul style="color: #000000; font-family: 'Hiragino Kaku Gothic Pro'; font-size: medium; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; list-style-type: disc;">
